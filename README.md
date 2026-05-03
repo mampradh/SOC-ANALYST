@@ -1,4 +1,4 @@
-<img width="752" height="805" alt="image" src="https://github.com/user-attachments/assets/7c23932c-bcac-40e5-99ba-267ffabd37ee" /># SOC-ANALYST
+
 SOC ANALYST 2 week schedule
 focused 2-week schedule to prepare for a SOC Analyst (Tier 1) job interview. This plan assumes you have basic IT knowledge and focuses only on what you need to pass the interview and technical screening.
 
